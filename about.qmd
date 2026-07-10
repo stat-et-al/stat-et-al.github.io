@@ -2,14 +2,4 @@
 title: "About"
 ---
 
-**Stat et al.** is a cumulative statistics Q&A series — statistics, and
-its co-authors. Each numbered entry asks one question, answers it from
-first principles, and builds on everything that came before.
-
-The series is written by a marketing PhD student relearning statistics
-deliberately, from foundations through graduate level, and is aimed at
-readers doing the same: PhD students in marketing and the social
-sciences who want to understand *why* the methods work, not just how to
-run them.
-
-<!-- Add a short bio and a link to your personal site (amiochowdhury.com) here. -->
+Coming soon.

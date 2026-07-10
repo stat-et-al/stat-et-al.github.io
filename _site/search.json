@@ -16,9 +16,9 @@
   {
     "objectID": "posts/q001/index.html",
     "href": "posts/q001/index.html",
-    "title": "Q1: What is a data set?",
+    "title": "Q1: [Your first question goes here]",
     "section": "",
-    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course:\n\nTable 1\n\n\nObservation\nName\nMajor\nScore\n\n\n\n\n1\nAndrew\nStatistics\n91\n\n\n2\nBecky\nMarketing\n85\n\n\n3\nCharlie\nPsychology\n87\n\n\n4\nCynthia\nStatistics\n89\n\n\n5\nDexter\nMarketing\n92"
+    "text": "State the question plainly, the way a curious person would actually ask it."
   },
   {
     "objectID": "posts/q001/index.html#answer",
@@ -35,24 +35,59 @@
     "text": "Prerequisites\nNone."
   },
   {
-    "objectID": "posts/q001/index.html#terms-in-this-entry",
-    "href": "posts/q001/index.html#terms-in-this-entry",
+    "objectID": "posts/q001/index.html#terms",
+    "href": "posts/q001/index.html#terms",
     "title": "Q1: What is a data set?",
-    "section": "Terms in this entry",
-    "text": "Terms in this entry\n\nterm — working definition (also added to the Glossary)"
+    "section": "Terms",
+    "text": "Terms\n\ndata set: a data set is a collection of observations."
   },
   {
     "objectID": "glossary.html",
     "href": "glossary.html",
     "title": "Glossary",
     "section": "",
-    "text": "Terms are added here the first time they appear in the series, with a link back to the question that introduced them. Alphabetical within each letter group.\n\nThe glossary grows with the series. First entries arrive with Q1."
+    "text": "data set\nA data set is a collection of observations. [More details in Q1]"
   },
   {
-    "objectID": "posts/q001/index.html#terms",
-    "href": "posts/q001/index.html#terms",
-    "title": "Q1: What is a data set?",
-    "section": "Terms",
-    "text": "Terms\n\ndata set: a data set is a collection of observations."
+    "objectID": "glossary.html#data-set",
+    "href": "glossary.html#data-set",
+    "title": "Glossary",
+    "section": "data set",
+    "text": "data set\nexample"
+  },
+  {
+    "objectID": "posts/q001/index.html#the-question",
+    "href": "posts/q001/index.html#the-question",
+    "title": "Q1: [Your first question goes here]",
+    "section": "",
+    "text": "State the question plainly, the way a curious person would actually ask it."
+  },
+  {
+    "objectID": "posts/q001/index.html#the-short-answer",
+    "href": "posts/q001/index.html#the-short-answer",
+    "title": "Q1: [Your first question goes here]",
+    "section": "The short answer",
+    "text": "The short answer\nTwo or three sentences. A reader in a hurry should be able to stop here."
+  },
+  {
+    "objectID": "posts/q001/index.html#the-long-answer",
+    "href": "posts/q001/index.html#the-long-answer",
+    "title": "Q1: [Your first question goes here]",
+    "section": "The long answer",
+    "text": "The long answer\nThe full walk-through, from first principles. This is where the series earns its keep."
+  },
+  {
+    "objectID": "posts/q001/index.html#what-this-builds-on",
+    "href": "posts/q001/index.html#what-this-builds-on",
+    "title": "Q1: [Your first question goes here]",
+    "section": "What this builds on",
+    "text": "What this builds on\nNothing yet — this is Q1, the foundation stone."
+  },
+  {
+    "objectID": "posts/q001/index.html#terms-pinned-in-this-entry",
+    "href": "posts/q001/index.html#terms-pinned-in-this-entry",
+    "title": "Q1: [Your first question goes here]",
+    "section": "Terms pinned in this entry",
+    "text": "Terms pinned in this entry\n\nterm — working definition (also added to the Glossary)"
   }
 ]
