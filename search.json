@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Stat et al. is a cumulative statistics Q&A series — statistics, and its co-authors. Each numbered entry asks one question, answers it from first principles, and builds on everything that came before.\nThe series is written by a marketing PhD student relearning statistics deliberately, from foundations through graduate level, and is aimed at readers doing the same: PhD students in marketing and the social sciences who want to understand why the methods work, not just how to run them."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stat et al.",
+    "section": "",
+    "text": "A numbered, cumulative Q&A series documenting one PhD student’s journey relearning statistics — from foundations through graduate level. Each question builds on the ones before it. Start at Q1, or jump in anywhere and follow the trail backward.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nQ1: [Your first question goes here]\n\n\n\nfoundations\n\n\n\nA one-sentence teaser that appears on the listing page.\n\n\n\n\n\nJul 9, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/q001/index.html",
+    "href": "posts/q001/index.html",
+    "title": "Q1: [Your first question goes here]",
+    "section": "",
+    "text": "State the question plainly, the way a curious person would actually ask it."
+  },
+  {
+    "objectID": "posts/q001/index.html#the-question",
+    "href": "posts/q001/index.html#the-question",
+    "title": "Q1: [Your first question goes here]",
+    "section": "",
+    "text": "State the question plainly, the way a curious person would actually ask it."
+  },
+  {
+    "objectID": "posts/q001/index.html#the-short-answer",
+    "href": "posts/q001/index.html#the-short-answer",
+    "title": "Q1: [Your first question goes here]",
+    "section": "The short answer",
+    "text": "The short answer\nTwo or three sentences. A reader in a hurry should be able to stop here."
+  },
+  {
+    "objectID": "posts/q001/index.html#the-long-answer",
+    "href": "posts/q001/index.html#the-long-answer",
+    "title": "Q1: [Your first question goes here]",
+    "section": "The long answer",
+    "text": "The long answer\nThe full walk-through, from first principles. This is where the series earns its keep."
+  },
+  {
+    "objectID": "posts/q001/index.html#what-this-builds-on",
+    "href": "posts/q001/index.html#what-this-builds-on",
+    "title": "Q1: [Your first question goes here]",
+    "section": "What this builds on",
+    "text": "What this builds on\nNothing yet — this is Q1, the foundation stone."
+  },
+  {
+    "objectID": "posts/q001/index.html#terms-pinned-in-this-entry",
+    "href": "posts/q001/index.html#terms-pinned-in-this-entry",
+    "title": "Q1: [Your first question goes here]",
+    "section": "Terms pinned in this entry",
+    "text": "Terms pinned in this entry\n\nterm — working definition (also added to the Glossary)"
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "Terms are added here the first time they appear in the series, with a link back to the question that introduced them. Alphabetical within each letter group.\n\nThe glossary grows with the series. First entries arrive with Q1."
+  }
+]
