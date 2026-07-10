@@ -13,7 +13,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-A numbered, cumulative Q&A series documenting one PhD student's journey
-relearning statistics — from foundations through graduate level. Each
-question builds on the ones before it. Start at Q1, or jump in anywhere
-and follow the trail backward.
+A cumulative Q&A series on statistics, starting from the foundations. Each question builds on the ones before it.
