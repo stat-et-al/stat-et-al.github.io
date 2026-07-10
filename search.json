@@ -18,28 +18,28 @@
     "href": "posts/q001/index.html",
     "title": "Q1: What is a data set?",
     "section": "",
-    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course - | Observation | Name | Major | Score | |—————–|———-|————|———–| | 1 | Andrew | Statistics | 91 | | 2 | Becky | Marketing | 85 | | 3 | Charlie | Psychology | 87 | | 4 | Cynthia | Statistics | 89 | | 5 | Dexter | Marketing | 92 |"
+    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course:\n\nTable 1\n\n\nObservation\nName\nMajor\nScore\n\n\n\n\n1\nAndrew\nStatistics\n91\n\n\n2\nBecky\nMarketing\n85\n\n\n3\nCharlie\nPsychology\n87\n\n\n4\nCynthia\nStatistics\n89\n\n\n5\nDexter\nMarketing\n92"
   },
   {
     "objectID": "posts/q001/index.html#answer",
     "href": "posts/q001/index.html#answer",
     "title": "Q1: What is a data set?",
     "section": "",
-    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course - | Observation | Name | Major | Score | |—————–|———-|————|———–| | 1 | Andrew | Statistics | 91 | | 2 | Becky | Marketing | 85 | | 3 | Charlie | Psychology | 87 | | 4 | Cynthia | Statistics | 89 | | 5 | Dexter | Marketing | 92 |"
+    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course:\n\nTable 1\n\n\nObservation\nName\nMajor\nScore\n\n\n\n\n1\nAndrew\nStatistics\n91\n\n\n2\nBecky\nMarketing\n85\n\n\n3\nCharlie\nPsychology\n87\n\n\n4\nCynthia\nStatistics\n89\n\n\n5\nDexter\nMarketing\n92"
   },
   {
     "objectID": "posts/q001/index.html#prerequisites",
     "href": "posts/q001/index.html#prerequisites",
     "title": "Q1: What is a data set?",
     "section": "Prerequisites",
-    "text": "Prerequisites\nNothing yet — this is Q1, the foundation stone."
+    "text": "Prerequisites\nNone."
   },
   {
-    "objectID": "posts/q001/index.html#terms-in-this-entry",
-    "href": "posts/q001/index.html#terms-in-this-entry",
+    "objectID": "posts/q001/index.html#terms",
+    "href": "posts/q001/index.html#terms",
     "title": "Q1: What is a data set?",
-    "section": "Terms in this entry",
-    "text": "Terms in this entry\n\nterm — working definition (also added to the Glossary)"
+    "section": "Terms",
+    "text": "Terms\n\ndata set: a data set is a collection of observations."
   },
   {
     "objectID": "glossary.html",
