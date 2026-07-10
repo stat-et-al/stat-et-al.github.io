@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Stat et al. is a cumulative statistics Q&A series — statistics, and its co-authors. Each numbered entry asks one question, answers it from first principles, and builds on everything that came before.\nThe series is written by a marketing PhD student relearning statistics deliberately, from foundations through graduate level, and is aimed at readers doing the same: PhD students in marketing and the social sciences who want to understand why the methods work, not just how to run them."
+    "text": "Coming soon."
   },
   {
     "objectID": "index.html",
@@ -46,6 +46,6 @@
     "href": "glossary.html",
     "title": "Glossary",
     "section": "",
-    "text": "Terms are added here the first time they appear in the series, with a link back to the question that introduced them. Alphabetical within each letter group.\n\nThe glossary grows with the series. First entries arrive with Q1."
+    "text": "data set\nA data set is a collection of observations."
   }
 ]
