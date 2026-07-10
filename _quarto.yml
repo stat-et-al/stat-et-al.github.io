@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Stat et al."
+  description: "Statistics from the ground up, one question at a time."
+  site-url: https://stat-et-al.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Questions
+      - href: glossary.qmd
+        text: Glossary
+      - href: about.qmd
+        text: About
+  page-footer:
+    center: "Stat et al. — a cumulative statistics Q&A series"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true
+
+execute:
+  freeze: auto

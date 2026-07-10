@@ -1,0 +1,19 @@
+---
+title: "Stat et al."
+subtitle: "Statistics from the ground up, one question at a time."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, categories]
+page-layout: full
+title-block-banner: true
+---
+
+A numbered, cumulative Q&A series documenting one PhD student's journey
+relearning statistics — from foundations through graduate level. Each
+question builds on the ones before it. Start at Q1, or jump in anywhere
+and follow the trail backward.

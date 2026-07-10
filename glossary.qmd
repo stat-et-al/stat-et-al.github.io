@@ -1,0 +1,20 @@
+---
+title: "Glossary"
+subtitle: "Every term, pinned where it was first defined."
+toc: true
+toc-depth: 2
+---
+
+Terms are added here the first time they appear in the series, with a
+link back to the question that introduced them. Alphabetical within
+each letter group.
+
+<!--
+Convention for entries:
+
+## Term
+One- or two-sentence working definition, in the same plain register as
+the posts. First appeared in [Q1](posts/q001/index.qmd).
+-->
+
+*The glossary grows with the series. First entries arrive with Q1.*

@@ -1,0 +1,29 @@
+---
+title: "Q1: [Your first question goes here]"
+description: "A one-sentence teaser that appears on the listing page."
+date: 2026-07-09
+categories: [foundations]
+---
+
+## The question
+
+State the question plainly, the way a curious person would actually ask
+it.
+
+## The short answer
+
+Two or three sentences. A reader in a hurry should be able to stop
+here.
+
+## The long answer
+
+The full walk-through, from first principles. This is where the series
+earns its keep.
+
+## What this builds on
+
+Nothing yet — this is Q1, the foundation stone.
+
+## Terms pinned in this entry
+
+- **term** — working definition (also added to the [Glossary](../../glossary.qmd))
