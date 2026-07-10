@@ -7,8 +7,8 @@ categories: [beginner]
 
 ## Answer
 
-A data set is a collection of observations.
-Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course -
+A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course:
+
 | **Observation** | **Name** | **Major**  | **Score** |
 |-----------------|----------|------------|-----------|
 | 1               | Andrew   | Statistics | 91        |
@@ -17,9 +17,12 @@ Here is an example of a data set that contains names, college majors, and final 
 | 4               | Cynthia  | Statistics | 89        |
 | 5               | Dexter   | Marketing  | 92        |
 
+: Table 1
+
 ## Prerequisites
-Nothing yet — this is Q1, the foundation stone.
 
-## Terms in this entry
+None.
 
-- **term** — working definition (also added to the [Glossary](../../glossary.qmd))
+## Terms
+
+- **data set**: a data set is a collection of observations.

@@ -18,56 +18,21 @@
     "href": "posts/q001/index.html",
     "title": "Q1: What is a data set?",
     "section": "",
-    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course - | Observation | Name | Major | Score | |—————–|———-|————|———–| | 1 | Andrew | Statistics | 91 | | 2 | Becky | Marketing | 85 | | 3 | Charlie | Psychology | 87 | | 4 | Cynthia | Statistics | 89 | | 5 | Dexter | Marketing | 92 |"
-  },
-  {
-    "objectID": "posts/q001/index.html#the-question",
-    "href": "posts/q001/index.html#the-question",
-    "title": "Q1: [Your first question goes here]",
-    "section": "",
-    "text": "State the question plainly, the way a curious person would actually ask it."
-  },
-  {
-    "objectID": "posts/q001/index.html#the-short-answer",
-    "href": "posts/q001/index.html#the-short-answer",
-    "title": "Q1: [Your first question goes here]",
-    "section": "The short answer",
-    "text": "The short answer\nTwo or three sentences. A reader in a hurry should be able to stop here."
-  },
-  {
-    "objectID": "posts/q001/index.html#the-long-answer",
-    "href": "posts/q001/index.html#the-long-answer",
-    "title": "Q1: [Your first question goes here]",
-    "section": "The long answer",
-    "text": "The long answer\nThe full walk-through, from first principles. This is where the series earns its keep."
-  },
-  {
-    "objectID": "posts/q001/index.html#what-this-builds-on",
-    "href": "posts/q001/index.html#what-this-builds-on",
-    "title": "Q1: [Your first question goes here]",
-    "section": "What this builds on",
-    "text": "What this builds on\nNothing yet — this is Q1, the foundation stone."
-  },
-  {
-    "objectID": "posts/q001/index.html#terms-pinned-in-this-entry",
-    "href": "posts/q001/index.html#terms-pinned-in-this-entry",
-    "title": "Q1: [Your first question goes here]",
-    "section": "Terms pinned in this entry",
-    "text": "Terms pinned in this entry\n\nterm — working definition (also added to the Glossary)"
-  },
-  {
-    "objectID": "glossary.html",
-    "href": "glossary.html",
-    "title": "Glossary",
-    "section": "",
-    "text": "Terms are added here the first time they appear in the series, with a link back to the question that introduced them. Alphabetical within each letter group.\n\nThe glossary grows with the series. First entries arrive with Q1."
+    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course:\n\nTable 1\n\n\nObservation\nName\nMajor\nScore\n\n\n\n\n1\nAndrew\nStatistics\n91\n\n\n2\nBecky\nMarketing\n85\n\n\n3\nCharlie\nPsychology\n87\n\n\n4\nCynthia\nStatistics\n89\n\n\n5\nDexter\nMarketing\n92"
   },
   {
     "objectID": "posts/q001/index.html#answer",
     "href": "posts/q001/index.html#answer",
     "title": "Q1: What is a data set?",
     "section": "",
-    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course - | Observation | Name | Major | Score | |—————–|———-|————|———–| | 1 | Andrew | Statistics | 91 | | 2 | Becky | Marketing | 85 | | 3 | Charlie | Psychology | 87 | | 4 | Cynthia | Statistics | 89 | | 5 | Dexter | Marketing | 92 |"
+    "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course:\n\nTable 1\n\n\nObservation\nName\nMajor\nScore\n\n\n\n\n1\nAndrew\nStatistics\n91\n\n\n2\nBecky\nMarketing\n85\n\n\n3\nCharlie\nPsychology\n87\n\n\n4\nCynthia\nStatistics\n89\n\n\n5\nDexter\nMarketing\n92"
+  },
+  {
+    "objectID": "posts/q001/index.html#prerequisites",
+    "href": "posts/q001/index.html#prerequisites",
+    "title": "Q1: What is a data set?",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nNone."
   },
   {
     "objectID": "posts/q001/index.html#terms-in-this-entry",
@@ -77,10 +42,17 @@
     "text": "Terms in this entry\n\nterm — working definition (also added to the Glossary)"
   },
   {
-    "objectID": "posts/q001/index.html#prerequisites",
-    "href": "posts/q001/index.html#prerequisites",
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "Terms are added here the first time they appear in the series, with a link back to the question that introduced them. Alphabetical within each letter group.\n\nThe glossary grows with the series. First entries arrive with Q1."
+  },
+  {
+    "objectID": "posts/q001/index.html#terms",
+    "href": "posts/q001/index.html#terms",
     "title": "Q1: What is a data set?",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nNothing yet — this is Q1, the foundation stone."
+    "section": "Terms",
+    "text": "Terms\n\ndata set: a data set is a collection of observations."
   }
 ]
