@@ -14,29 +14,29 @@
     "text": "A cumulative Q&A series on statistics, starting from the foundations. Each question builds on the ones before it.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nQ1: What is a data set?\n\n\n\nbeginner\n\n\n\nA data set is a collection of observations.\n\n\n\n\n\nJul 10, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/q001/index.html",
-    "href": "posts/q001/index.html",
+    "objectID": "posts/q001-data-set/index.html",
+    "href": "posts/q001-data-set/index.html",
     "title": "Q1: What is a data set?",
     "section": "",
     "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course:\n\nTable 1\n\n\nObservation\nName\nMajor\nScore\n\n\n\n\n1\nAndrew\nStatistics\n91\n\n\n2\nBecky\nMarketing\n85\n\n\n3\nCharlie\nPsychology\n87\n\n\n4\nCynthia\nStatistics\n89\n\n\n5\nDexter\nMarketing\n92"
   },
   {
-    "objectID": "posts/q001/index.html#answer",
-    "href": "posts/q001/index.html#answer",
+    "objectID": "posts/q001-data-set/index.html#answer",
+    "href": "posts/q001-data-set/index.html#answer",
     "title": "Q1: What is a data set?",
     "section": "",
     "text": "A data set is a collection of observations. Here is an example of a data set that contains names, college majors, and final exam scores of five students in a statistics course:\n\nTable 1\n\n\nObservation\nName\nMajor\nScore\n\n\n\n\n1\nAndrew\nStatistics\n91\n\n\n2\nBecky\nMarketing\n85\n\n\n3\nCharlie\nPsychology\n87\n\n\n4\nCynthia\nStatistics\n89\n\n\n5\nDexter\nMarketing\n92"
   },
   {
-    "objectID": "posts/q001/index.html#prerequisites",
-    "href": "posts/q001/index.html#prerequisites",
+    "objectID": "posts/q001-data-set/index.html#prerequisites",
+    "href": "posts/q001-data-set/index.html#prerequisites",
     "title": "Q1: What is a data set?",
     "section": "Prerequisites",
     "text": "Prerequisites\nNone."
   },
   {
-    "objectID": "posts/q001/index.html#terms",
-    "href": "posts/q001/index.html#terms",
+    "objectID": "posts/q001-data-set/index.html#terms",
+    "href": "posts/q001-data-set/index.html#terms",
     "title": "Q1: What is a data set?",
     "section": "Terms",
     "text": "Terms\n\ndata set: a data set is a collection of observations."
