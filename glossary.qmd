@@ -1,19 +1,9 @@
 ---
 title: "Glossary"
-subtitle: "Every term, pinned where it was first defined."
+subtitle: "All terms from posts defined."
 toc: true
 toc-depth: 2
 ---
 
 **data set**\
 A data set is a collection of observations.
-
-```{=html}
-<!--
-Convention for entries:
-
-## Term
-One- or two-sentence working definition, in the same plain register as
-the posts. First appeared in [Q1](posts/q001-data-set/index.qmd).
--->
-```
